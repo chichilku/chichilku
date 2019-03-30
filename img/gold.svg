@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg4152"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 64 64"
+   sodipodi:docname="gold.svg"
+   inkscape:export-filename="/Users/chillerdragon/Desktop/git/StickGame/gold_png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4154" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.5"
+     inkscape:cx="7.5175583"
+     inkscape:cy="32"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="791"
+     inkscape:window-x="61"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4157">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <ellipse
+       style="fill:#eee83c;fill-opacity:1;stroke:#000000;stroke-width:0.99012995;stroke-opacity:1"
+       id="path4700"
+       cx="32.181824"
+       cy="-31.727272"
+       rx="31.45948"
+       ry="31.368572"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       transform="scale(1,-1)"
+       ry="26.804243"
+       rx="26.881924"
+       cy="-31.81818"
+       cx="32.285957"
+       id="ellipse4702"
+       style="fill:#eee83c;fill-opacity:1;stroke:#000000;stroke-width:0.84605968;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:0.11746988;stroke:none;stroke-width:0.84605968;stroke-opacity:1"
+       d="M 46.730114,9.5814986 A 26.881924,26.804243 0 0 1 50.985973,23.999467 26.881924,26.804243 0 0 1 24.103161,50.804154 26.881924,26.804243 0 0 1 9.6578476,46.599076 26.881924,26.804243 0 0 0 32.286755,58.985795 26.881924,26.804243 0 0 0 59.167614,32.181107 26.881924,26.804243 0 0 0 46.730114,9.5814986 Z"
+       id="ellipse4704"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
