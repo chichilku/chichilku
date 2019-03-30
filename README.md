@@ -2,7 +2,7 @@
 A simple 2d stick game in javascript.
 
 Test it online at:
-[chichilku.github.io](https://chichilku.github.io/)
+[chichilku.github.io/chichilku/](https://chichilku.github.io/chichilku/)
 
 
 # Spinup your own development enviroment
@@ -14,11 +14,13 @@ cd chichilku.github.io
 ```
 
 Start webserver (pick one ruby or python):
+
 ruby
 ```
 # start ruby http server in current directory on port 8000
 ruby -run -e httpd . -p 8000
 ```
+
 python
 ```
 # python alternative
