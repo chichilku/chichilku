@@ -9,8 +9,8 @@ Test it online at:
 
 download:
 ```
-git clone https://github.com/chichilku/chichilku.github.io
-cd chichilku.github.io
+git clone https://github.com/chichilku/chichilku
+cd chichilku
 ```
 
 Start webserver (pick one ruby or python):
