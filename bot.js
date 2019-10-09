@@ -27,4 +27,12 @@ function UpdateBot(bot)
         bot.IsDown = false;
         bot.IsUp = true;
     }
+
+    if (ChillerRand(0,1) == 0)
+    {
+        bot.IsRight = ChillerRand(0,1) == 0;
+        bot.IsLeft = ChillerRand(0,1) == 0;
+        bot.IsDown = ChillerRand(0,1) == 0;
+        bot.IsUp = ChillerRand(0,1) == 0;
+    }
 }
