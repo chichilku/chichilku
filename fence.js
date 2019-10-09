@@ -8,6 +8,8 @@ class Fence
         this.size_y = 64;
         this.hp = 10;
         this.IsAlive = true;
+        this.texture = new Image();
+        this.texture.src = "img/fence.png";
         //console.log("created fence at (" + this.x + "|" + this.y + ")");
     }
     
@@ -30,10 +32,6 @@ class Fence
     Draw()
     {
         if (!this.IsAlive) { return; }
-        ctx.beginPath();
-        ctx.rect(this.x + gamecore.scrollX, this.y + gamecore.scrollY, this.size_x, this.size_y);
-        ctx.fillStyle = "brown";
-        ctx.fill();
-        ctx.closePath();
+        ctx.drawImage(this.texture, this.x + gamecore.scrollX, this.y + gamecore.scrollY, this.size_x, this.size_y);
     }
 }
