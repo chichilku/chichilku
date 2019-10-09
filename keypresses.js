@@ -104,7 +104,6 @@ onkeydown = onkeyup = function(e){
     p1.IsLeft = Boolean(keymap[65]); // A
     if (Boolean(keymap[32])) // SPACE
     {
-        gamecore.CreateStick(p1.x,p1.y, "haxx0r", true);
         p1.PlaceFence();
     }
     else if (Boolean(keymap[84])) // T
