@@ -13,7 +13,7 @@ class Fence
     
     Die()
     {
-        console.log("wood at (" + this.x "|" + this.y + ") died");
+        console.log("wood at (" + this.x + "|" + this.y + ") died");
         this.IsAlive = false;
     }
 
